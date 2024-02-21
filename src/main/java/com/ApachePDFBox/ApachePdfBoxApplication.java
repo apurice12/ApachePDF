@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Bean;
 public class ApachePdfBoxApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ApachePdfBoxApplication.class, args);
+        SpringApplication.run(SetReadOnlyFields.class, args);
     }
 
 }
